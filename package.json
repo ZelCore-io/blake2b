@@ -4,7 +4,7 @@
   "description": "Blake2b (64-bit version) in pure Javascript",
   "main": "index.js",
   "dependencies": {
-    "blake2b-wasm": "https://github.com/BitGo/blake2b-wasm#193cdb71656c1a6c7f89b05d0327bb9b758d071b",
+    "blake2b-wasm": "https://github.com/zelcash/blake2b-wasm#master",
     "nanoassert": "^1.0.0"
   },
   "devDependencies": {
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emilbayes/blake2b.git"
+    "url": "git+https://github.com/zelcash/blake2b.git"
   },
   "keywords": [],
   "author": "Emil Bay <github@tixz.dk>",
