@@ -4,7 +4,7 @@
   "description": "Blake2b (64-bit version) in pure Javascript",
   "main": "index.js",
   "dependencies": {
-    "blake2b-wasm": "https://github.com/zelcash/blake2b-wasm#master",
+    "blake2b-wasm": "https://github.com/zelcash/blake2b-wasm",
     "nanoassert": "^1.0.0"
   },
   "devDependencies": {
